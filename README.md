@@ -23,6 +23,6 @@ Coded by tyskiee
 
 
 # Contact
-discord-tyskiee or thru server: https://discord.gg/7tEetYVD
+discord-tyskiee or thru server: [https://discord.gg/7tEetYVD](https://discord.gg/EJ9S3k3B)
 
 
