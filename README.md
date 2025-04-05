@@ -5,7 +5,7 @@ Join any roblox player with only their username.
 
 
 
-go into releases --> RoJoiner 0.3 to download the newest version of  RoJoiner -->
+go into releases --> RoJoiner beta 1 to download the newest version of  RoJoiner -->
 # RoJoiner
 Snipe any roblox player with only their username.
 ![Bez tytułu](https://github.com/user-attachments/assets/96b8bfdc-3b1b-4ef5-a219-a7cef8d8a3b5)
